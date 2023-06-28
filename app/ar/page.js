@@ -2,7 +2,7 @@ export default function ArHome(){
     return(
         <>
 
-<section className="text-gray-600 body-font">
+<section className="text-gray-600 body-font bg-white">
   <div className="container px-5 py-24 mx-auto flex flex-col">
     <div className="lg:w-4/6 mx-auto">
       <div className="rounded-lg h-64 overflow-hidden">

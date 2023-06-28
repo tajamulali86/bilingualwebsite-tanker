@@ -1,4 +1,4 @@
-const { default: TextImage } = require("../component/textimage")
+const { default: TextImage } = require("../../component/textimage")
 
 const Aboutus =()=>{
     return(
